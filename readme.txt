@@ -4,3 +4,4 @@ add a new test.txt
 first add readme.txt
 second add readme.txt
 how to delete it
+push to orign master
