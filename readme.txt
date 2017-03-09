@@ -5,3 +5,4 @@ first add readme.txt
 second add readme.txt
 how to delete it
 push to orign master
+push it
